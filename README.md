@@ -7,4 +7,6 @@ We build this project in team of thee.
 2. Soham Patel(24M0746)
 3. Devang Mahar(24M0824)
 
-## Project Description
+## Description
+
+LIVEIPO is a software lab project which is a android application which helps you track different IPOs.
